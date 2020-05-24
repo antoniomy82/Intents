@@ -7,7 +7,7 @@ En esta App se desarrollan los distintos tipos de intents que existen, para comu
  - **Intents implicitos:** especifica una acción que puede invocar cualquier aplicación en el dispositivo que puede realizar la acción.
  - **Mediante POO:** apartado adicional dónde explico cómo comunicar entre componentes, usando programación orientada a objetos.
  
-Tutorial en **Youtube** dónde explico como se realiza esta app:
+Puedes ver un tutorial en **Youtube** dónde explico como se realiza esta app:
 https://www.youtube.com/watch?v=UwQ_QS3Qizc
 
 Para que amplieis conococimientos, os dejo los siguientes enlaces:
