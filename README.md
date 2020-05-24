@@ -14,7 +14,9 @@ Para que amplieis conococimientos, os dejo los siguientes enlaces:
  - **Intents**, Android Developers: https://developer.android.com/guide/components/intents-filters?hl=es#ExampleExplicit
  
  - **Bundle**, Android Developers: https://developer.android.com/reference/android/os/Bundle
- 
+
+A continuación, se muestran dos imagenes del interfaz de la aplicación: 
+
 <p align="center">
 Imagen de Activity1, dónde podemos seleccionar tipo de Intent u enviar objeto.
 <img src="https://raw.githubusercontent.com/antoniomy82/Intents_tutorial_Youtube/master/capturas/activity1.PNG">
