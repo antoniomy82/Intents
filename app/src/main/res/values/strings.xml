@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="tvEtiqueta1">Actividad 1</string>
+    <string name="edEdad">Edad</string>
+    <string name="edNombre_completo">Nombre completo</string>
+    <string name="bEnviar">Intent explicito estandar</string>
+    <string name="tvEtiqueta2">Actividad 2</string>
+    <string name="tvNombreActividad1">Nombre Completo Actv1</string>
+    <string name="tvEdadAct1">Edad Act1</string>
+    <string name="bVolver">Volver</string>
+    <string name="bEnviar2">Intent explicito Bundle</string>
+    <string name="bEnviar3">Intent Object Serializable</string>
+    <string name="bEnviar4">Usando POO</string>
+</resources>
