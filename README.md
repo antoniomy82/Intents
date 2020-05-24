@@ -16,9 +16,13 @@ Para que amplieis conococimientos, os dejo los siguientes enlaces:
  - **Bundle**, Android Developers: https://developer.android.com/reference/android/os/Bundle
  
 <p align="center">
-<img width="400" height="600" src="https://raw.githubusercontent.com/antoniomy82/Intents_tutorial_Youtube/master/capturas/activity1.PNG>
+Imagen de Activity1, dónde podemos seleccionar tipo de Intent u enviar objeto.
+<img src="https://raw.githubusercontent.com/antoniomy82/Intents_tutorial_Youtube/master/capturas/activity1.PNG">
 </p>
 
-![Imagen del Activity2 de la App dónde se recibe el intent u objeto enviado previamente](https://raw.githubusercontent.com/antoniomy82/Intents_tutorial_Youtube/master/capturas/activity2.PNG)
+<p align="center">
+Imagen de la Activity2 dónde se recoge el intent u objeto de la actividad 1
+<img src="https://raw.githubusercontent.com/antoniomy82/Intents_tutorial_Youtube/master/capturas/activity2.PNG">
+</p>
 
 Espero que os guste y sirva de ayuda, un saludo!!
