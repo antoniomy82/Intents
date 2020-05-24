@@ -17,9 +17,9 @@ Para que amplieis conococimientos, os dejo los siguientes enlaces:
  
 
 ![Imagen del Activity1 de la App dónde se puede seleccionar el tipo de intent]
-(https://github.com/antoniomy82/Intents_tutorial_Youtube/blob/master/capturas/activity1.PNG)
+https://github.com/antoniomy82/Intents_tutorial_Youtube/blob/master/capturas/activity1.PNG
 
 ![Imagen del Activity2 de la App dónde se recibe el intent u objeto enviado previamente]
-(https://github.com/antoniomy82/Intents_tutorial_Youtube/blob/master/capturas/activity2.PNG)
+https://github.com/antoniomy82/Intents_tutorial_Youtube/blob/master/capturas/activity2.PNG
 
 Espero que os guste y sirva de ayuda, un saludo!!
