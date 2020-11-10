@@ -1,6 +1,6 @@
 # Intents
 
-App desarrollada en Kotlin, para explicar los métodos de comunicación entre activities y clases en Android.
+App con fines educativos que explica los métodos de comunicación entre activities y clases en Android (Kotlin)
 
 En esta App se desarrollan los distintos tipos de intents que existen, para comunicar las actividades o clases entre si:
  - **Intents explicitos:** se usan para iniciar un componente especifico de la aplicación, como una actividad o un servicio particular en la aplicación.
@@ -15,7 +15,7 @@ Para que amplieis conococimientos, os dejo los siguientes enlaces:
  
  - **Bundle**, Android Developers: https://developer.android.com/reference/android/os/Bundle
 
-A continuación, se muestran dos imagenes del interfaz de la aplicación: 
+A continuación, se muestran dos imagenes del interface de la aplicación: 
 
 <p align="center">
 Imagen de Activity1, dónde podemos seleccionar tipo de Intent u enviar objeto.
